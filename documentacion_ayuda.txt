@@ -1,0 +1,5 @@
+comando para niciar proyecto en react
+npx create-react-app nombre-carpeta
+
+corre programa
+npm start
